@@ -6,9 +6,6 @@
 ![Expense](https://user-images.githubusercontent.com/49367575/55923902-55878180-5c25-11e9-8c68-b4de99d734d6.png)
 
 
-![Main Menu Side](https://user-images.githubusercontent.com/49367575/55923903-55878180-5c25-11e9-9dab-a15805915471.png)
-
-
 ![Main Menu](https://user-images.githubusercontent.com/49367575/55923906-56201800-5c25-11e9-903f-9bb6a404bac3.png)
 
 

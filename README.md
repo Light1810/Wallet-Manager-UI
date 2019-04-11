@@ -6,6 +6,12 @@
 ![Expense](https://user-images.githubusercontent.com/49367575/55923902-55878180-5c25-11e9-8c68-b4de99d734d6.png)
 
 
+![Start](https://user-images.githubusercontent.com/49367575/55924255-bb283d80-5c26-11e9-92c6-8fb5b1e5dfd3.png)
+
+
+![Main Menu Side](https://user-images.githubusercontent.com/49367575/55924256-bb283d80-5c26-11e9-92ab-5552eb4c880c.png)
+
+
 ![Main Menu](https://user-images.githubusercontent.com/49367575/55923906-56201800-5c25-11e9-903f-9bb6a404bac3.png)
 
 
